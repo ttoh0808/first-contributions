@@ -427,7 +427,6 @@
 - [Leon Dixon](https://github.com/LeonD1196)
 - [Karl von Klein](https://github.com/kvonklein)
 - [Mei Mbah](https://github.com/meicodes)
-- [Rajshri Singh Baghel](https://github.com/sgeekyrajshri)
 - [Geri Adam](https://github.com/geriadam)
 - [Nathan Welch](https://github.com/nawwx3)
 - [Hattou Faïssal](https://github.com/Bakhaw)
